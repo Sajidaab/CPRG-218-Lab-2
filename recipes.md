@@ -113,3 +113,20 @@ Instructions:
 7. Drop tablespoon-sized balls of dough onto ungreased baking sheets.
 8. Bake for 8 to 10 minutes or until golden brown.
 9. Cool on wire racks.
+
+### 3-Ingredient Peanut Butter Cookies
+
+Ingredients
+- 1 cup peanut butter
+- 1 cup white sugar
+- 1 large egg
+
+Instructions: 
+1. Gather all ingredients.
+2. Preheat the oven to 350 degrees F (175 degrees C).
+3. Mix peanut butter, sugar, and egg together in a bowl using an electric mixer until smooth and creamy.
+4. Roll mixture into 1-inch balls and place 1 inch apart on an ungreased baking sheet
+5. Flatten each with a fork, making a criss-cross pattern.
+6. Bake in the preheated oven until edges are firm, about 10 minutes. Cool on the baking sheet briefly before removing to a wire rack to cool completely.
+7. Enjoy!
+
