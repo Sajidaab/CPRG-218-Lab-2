@@ -34,7 +34,7 @@ Ingredients:
 - 1 French baguette, sliced diagonally
 - 2 tomatoes, diced
 - 1/2 red onion, diced
-- 1 clove garlic, minced
+- 1 clove garlic minced
 - 2 tablespoons olive oil
 - 2 tablespoons balsamic vinegar
 - Salt and pepper to taste
@@ -96,16 +96,16 @@ Ingredients:
 - 2 1/4 cups all-purpose flour
 - 1 tsp baking soda
 - 1 tsp salt
-- 1 cup unsalted butter, softened
+- 1 cup unsalted butter, softened (At room tempareture)
 - 3/4 cup white sugar
 - 3/4 cup brown sugar
 - 2 eggs
 - 2 tsp vanilla extract
-- 2 cups semisweet chocolate chips
+- 1 3/4 cups semisweet chocolate chips
 
 Instructions:
 1. Preheat oven to 375°F (190°C).
-2. Combine flour, baking soda, and salt in a bowl.
+2. Combine dry ingredients in a bowl.
 3. Cream together butter, white sugar, and brown sugar until smooth.
 4. Beat in eggs one at a time, then stir in vanilla.
 5. Gradually blend in the dry ingredients.
